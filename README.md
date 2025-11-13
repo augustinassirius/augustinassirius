@@ -4,12 +4,11 @@ I'm a Multidisciplinary Programmer, Engineer, AI Enthusiast, and Founder of [Sir
 
 My interests involve AI and Data Engineering, Developing [Siren](Siren.com) and Thinkering in Mechanical and Electrical Engineering :) 
 
-<img align = "right" alt = "Coding" width = "400" src = "https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
-
 ### 🚀 Personal Projects 
 - [Basic Network Anomaly Detector](https://github.com/augustinassirius/Basic-Network-Anomaly-Detector-)
 - [Library Management System](https://github.com/augustinassirius/Library-management-system)
-
+- [Pong Game](https://github.com/augustinassirius/PongGame)
+- And More
 
 
 
