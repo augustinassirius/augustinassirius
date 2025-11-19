@@ -8,10 +8,7 @@ My interests involve AI and Data Engineering, Developing [Siren](Siren.com) and 
 - [Real-Time-Low-Latency-Market-Data-Ingestion-and-Processing-System](https://github.com/augustinassirius/Real-Time-Low-Latency-Market-Data-Ingestion-and-Processing-System)
 - [Basic Network Anomaly Detector](https://github.com/augustinassirius/Basic-Network-Anomaly-Detector-)
 - [Library Management System](https://github.com/augustinassirius/Library-management-system)
-- [Pong Game](https://github.com/augustinassirius/PongGame)
 - And More
-
-
 
 
 ### 🚀Languages Proficient in 
