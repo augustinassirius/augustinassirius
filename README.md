@@ -5,7 +5,8 @@ I'm a Multidisciplinary Programmer, Engineer, AI Enthusiast, and Founder of [Sir
 My interests involve AI and Data Engineering, Developing [Siren](Siren.com) and Thinkering in Mechanical and Electrical Engineering :) 
 
 ### 🚀 Personal Projects 
-- [Real-Time-Low-Latency-Market-Data-Ingestion-and-Processing-System](https://github.com/augustinassirius/Real-Time-Low-Latency-Market-Data-Ingestion-and-Processing-System)
+- [Mini Quant Heston Calibration Engine](https://github.com/augustinassirius/Mini-Quant-Heston-Calibration-Engine.git)
+- [Real Time Low Latency Market Data Ingestion and Processing System](https://github.com/augustinassirius/Real-Time-Low-Latency-Market-Data-Ingestion-and-Processing-System)
 - [Basic Network Anomaly Detector](https://github.com/augustinassirius/Basic-Network-Anomaly-Detector-)
 - [Library Management System](https://github.com/augustinassirius/Library-management-system)
 - And More
