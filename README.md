@@ -12,7 +12,7 @@ My interests involve AI and Data Engineering, Developing [Siren](Siren.com) and 
 
 
 ### 🚀Languages Proficient in 
-- Python, Java, C++, MatLab, JavaScript, MySql
+- Python, Java, C++/C, MatLab, JavaScript, MySql
 
 ## Get in Touch
 - 📫 How to reach me **augustinassirius@gmail.com**
